@@ -14,8 +14,6 @@
 **Инструменты:**
 - TestIT (check lists, test cases)
 - Jira (bug report)
-- Postman (тестирование api)
-- Swagger (документация api)
 - DevTools (верстка, ошибки, адаптивность и тд.)
 - Browserstack (кроссбраузерность)
 
