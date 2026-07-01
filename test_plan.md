@@ -51,7 +51,7 @@
 *   **Тестовые данные:**
     *   VK: login - testuser1; password - Go0d_pAssword
     *   Max: login - testuser2; password - Go0D_pAssw0rd
-    *   Telegram: number - +79999999999
+    *   Telegram: number +79999999999
     *   Yandex: login - testuser3; password - GO0d_p4ssword
     *   Телефон: +79999999999 (для авторизации по телефону)
     *   Адрес в зеленой зоне: улица Сафиуллина, дом 24, кв 52, подъезд 5 (стоимость доставки - 150 рублей, 1500 рублей для бесплатной доставки, минимальной суммы заказа нет)
