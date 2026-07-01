@@ -1,9 +1,10 @@
 # Страница профиля (/profile) и связанные страницы (/bonuses, /orders)
 
-## Связанные скриншоты
+## Связанные скриншоты | Ссылка на чек лист
 - `/screenshots/profile_full_page.png` — Страница профиля (/profile)
 - `/screenshots/bonuses_page.png` — Страница истории бонусов (/bonuses)
 - `/screenshots/orders_page.png` — Страница истории заказов (/orders)
+- https://team-1l21.testit.software/browse/5 - Ссылка на чек лист в TestIT
 
 ---
 
